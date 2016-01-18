@@ -1,0 +1,72 @@
+body{
+	width: 100%;
+	margin: 2px;
+
+}
+p{
+	margin: 4px;
+}
+h1,h2,h3,h4,h5{
+	text-align: center;
+}
+#time{
+	text-align: center;
+}
+#articulo{
+	text-align: justify;
+	background-color: pink;
+}
+
+#header{
+	margin: 10px;
+	background-color: yellow;
+    border:1px solid orange; 
+    border-radius:10px;
+    text-align: center;;
+
+}
+nav{
+	margin: 10px;
+	float: left;
+	width: 25%;
+	height: 100%;
+	display: inline-block;
+	background-color: yellow;
+    border:1px solid orange; 
+    border-radius:10px;
+    text-align: center;
+}
+main{
+	text-align: center;
+	margin:10px;
+	display: inline-block;
+	width: 71.7%;
+	height: 100%;
+	background-color: yellow;
+    border:1px solid orange; 
+    border-radius:10px;
+}
+
+article{
+	margin: 10px;
+	text-align: justify;
+
+}
+#comentario{
+	background-color: white;
+	margin: 10px;
+	border-radius: 4px;
+}
+input{
+	text-align: center;
+}
+#pie{
+	margin: 10px;
+	background-color:yellow;
+	border:1px solid orange; 
+    border-radius:10px;
+
+}
+article p,article a , article input ,article label ,article time p {
+	margin: 10px;
+}
